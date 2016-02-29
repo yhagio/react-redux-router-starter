@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "React Redux Sass Starter React-Router",
   "main": "index.js",
-  "repository": "",
+  "repository": "git@github.com:yhagio/react-redux-router-starter.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },

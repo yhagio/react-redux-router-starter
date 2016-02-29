@@ -1,10 +1,14 @@
-# ReduxSimpleStarter
+# React-Redux-Router-Starter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-###Getting Started###
+### Getting Started
 
 ```
 npm install
 npm start
 ```
+
+### Resources
+[react](https://facebook.github.io/react/)
+[redux](http://redux.js.org/)
+[react-router](https://github.com/reactjs/react-router)
+[immutable.js](https://facebook.github.io/immutable-js/)
